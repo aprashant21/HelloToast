@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         mCount++;
         if (mShowCount != null)
             mShowCount.setText(Integer.toString(mCount));
-        
+
 
     }
 }
