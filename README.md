@@ -3,4 +3,4 @@ Hello Toast contains two lab exercises, first one is "Your first interactive UI"
 
 Now I am going to show you a task or a complete task that i have done which are as following or both layout editor and interative ui parts:
 
-![TASK!](task.jpg)
+![TASK!](images/task.jpg)
