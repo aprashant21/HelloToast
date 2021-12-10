@@ -8,13 +8,13 @@ In the task, simple toast and count button added to perform the onClickListener 
 
 count button is used increase the number shown by textView where toast button is used to show the toast messages.
 The screenshot of the task are shown in below:
-![TASK!](images/task.jpg)
-![TASK GIF](images/taskgif.gif)
+<img src="https://github.com/aprashant21/HelloToast/blob/master/images/task.jpg" alt="task" height="700px" width="600px">
+<img src="https://github.com/aprashant21/HelloToast/blob/master/images/homeworkgif.gif" alt="task" height="700px" width="600px">
 
 
 In the other hand, There is coding challenge which is all about the landscape view of the layout where i have learnt to create the landscape resource layout for my activity_main.xml file with large keyword. and layout working fine as you can see below:
 
-![CHALLENGE](images/hello_toast_coding_challenge.jpg)
+<img src="https://github.com/aprashant21/HelloToast/blob/master/images/hello_toast_coding_challenge.jpg" height="700px" width="600px">
 
 
 In the HOMEWORK part, I have added the zero button middle of the toast and count button. Zero button is used to restore the value zero for the textView.
@@ -22,5 +22,5 @@ In this part, I also change the background color of the count button as it is ev
 
 You can see the below images for better understanding:
 
-![HOMEWORK!](images/homework.jpg)
-![HOMEWORK!](images/homeworkgif.gif)
+<img src="https://github.com/aprashant21/HelloToast/blob/master/images/homework.jpg" height="700px" width="600px">
+<img src="https://github.com/aprashant21/HelloToast/blob/master/images/homeworkgif.gif" height="700px" width="600px">
